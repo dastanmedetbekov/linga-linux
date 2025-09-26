@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Linga
-Exec=/home/Dastan/.local/bin/linga
+Exec=~/.local/bin/linga
 Type=Application
 Categories=Utility;Internet;
 Terminal=false
