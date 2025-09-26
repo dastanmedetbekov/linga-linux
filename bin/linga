@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/lib/electron38/electron /home/Dastan/.local/share/Linga
+/usr/lib/electron38/electron ~/.local/share/Linga
