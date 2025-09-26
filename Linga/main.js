@@ -8,8 +8,7 @@ function createWindow () {
       nodeIntegration: false
     }
   });
-
-  // замени на свой сайт
+  
   win.loadURL('https://app.linga.io/');
 }
 
